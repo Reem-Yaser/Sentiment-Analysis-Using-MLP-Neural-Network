@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Using-MLP-Neural-Network
+# Sentiment Analysis Using MLP Neural Network
 
 ## Problem Description
 
